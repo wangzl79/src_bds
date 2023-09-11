@@ -3,7 +3,7 @@ hello git 2 main 2nd modified
 hello git 3 hot-fix 1st modified
 hello git 4 main 1st merge
 hello git 5 hot-fix 1st merge
-hello git 6
+hello git 6 gitlab modified
 hello git 7
 hello git 8
 hello git 9
