@@ -1,7 +1,7 @@
 hello git 1 main 1st modified
 hello git 2 main 2nd modified
 hello git 3 hot-fix 1st modified
-hello git 4
+hello git 4 main 1st merge
 hello git 5
 hello git 6
 hello git 7
