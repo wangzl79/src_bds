@@ -5,6 +5,6 @@ hello git 4 main 1st merge
 hello git 5 hot-fix 1st merge
 hello git 6 gitlab modified
 hello git 7 gitlab ssh test
-hello git 8
+hello git 8 main ssh test
 hello git 9
 hello git 10
